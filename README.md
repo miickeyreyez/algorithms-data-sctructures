@@ -12,3 +12,11 @@ Algorithms have two differents complexities: Space and Time.
 - Multiple pointers
 - Sliding window
 - Divide and conquer
+
+# Recursion
+
+- A process that call itself
+- Uses a call stack
+- Function invoked -> pushed
+- Function returned -> pop
+- Base case
