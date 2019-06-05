@@ -1,3 +1,4 @@
+// Complexity O(n)
 function maxSubarraySum(elements, nElements) {
   if (elements.length < nElements) {
     return null;

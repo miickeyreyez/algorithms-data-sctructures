@@ -1,4 +1,5 @@
 # algorithms-data-sctructures
+
 This repo contains algorithms and data structures implementations.
 
 # Complexity
@@ -6,5 +7,8 @@ This repo contains algorithms and data structures implementations.
 Algorithms have two differents complexities: Space and Time.
 
 # Problem solving patterns
+
 - Frequency counter
 - Multiple pointers
+- Sliding window
+- Divide and conquer
