@@ -31,3 +31,7 @@ Algorithms have two differents complexities: Space and Time.
 - Function invoked -> pushed
 - Function returned -> pop
 - Base case
+
+# Search
+- Linear search
+- Binary search (Array must be order)
