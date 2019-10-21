@@ -34,4 +34,7 @@ Algorithms have two differents complexities: Space and Time.
 
 # Search
 - Linear search
-- Binary search (Array must be order)
+- Binary search (Array must be ordered)
+
+# Sorting
+- Bubble sort
